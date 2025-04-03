@@ -77,4 +77,4 @@ This grouped bar chart distinguishes between parts replaced due to corrosion and
 1. Clone this repository:
    ```bash
    git clone https://github.com/ninirob/fleet-maintenance-DAD220.git
-   cd fleet-maintenance-viz
+   
